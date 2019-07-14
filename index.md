@@ -1,6 +1,6 @@
 ---
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
-title: Introduction to Web Accessibility   # Do not translate "title:". Do translate the text after "title:".
+title:  مقدمة لولوجية الويب   # Do not translate "title:". Do translate the text after "title:".
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-06-05   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: #Add one -name: line for every translator
