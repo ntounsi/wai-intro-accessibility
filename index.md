@@ -1,6 +1,6 @@
 ---
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
-title: Introduction to Web Accessibility   # Do not translate "title:". Do translate the text after "title:".
+title:  مقدمة لولوجية الويب   # Do not translate "title:". Do translate the text after "title:".
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-06-05   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: #Add one -name: line for every translator
@@ -24,12 +24,12 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="ملخص" class="full" %}
 {:/}
 
-When websites and web tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.
-
-Making the web accessible benefits individuals, businesses, and society. International web standards define what is needed for accessibility.
+ عندما يتم تصميم مواقع الويب وأدوات الويب وترميزها بشكل صحيح ، يمكن للأشخاص ذوي الإعاقة استخدامها. ومع ذلك ، يتم حاليا تطوير العديد من المواقع والأدوات مع حواجز الولوج يجعلها صعبة أو مستحيلة الاستخدام على بعض الأشخاص. 
+ 
+إن ولوجية الويب  تفيد الأفراد والشركات والمجتمع. معايير الويب الدولية تحدد ما هو مطلوب للولوجية.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -38,40 +38,40 @@ Making the web accessible benefits individuals, businesses, and society. Interna
 {::options toc_levels="2" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{% include_cached toc.html type="start" title="محتويات الصفحة" class="full" %}
 {:/}
 
 -   TOC is created automatically.
 {:toc}
 
-<span class="box-h box-h-simple box-h-full">Related Resource</span><br>
+<span class="box-h box-h-simple box-h-full">الموارد ذات الصلة</span><br>
 {% include video-link.html title="Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Accessibility in Context {#context}
+## سياق الولوجية {#context}
 
 <blockquote class="pull">
-  <p>The power of the Web is in its universality.<br />
-    Access by everyone regardless of disability is an essential aspect.</p>
-  <footer><cite>Tim Berners-Lee, W3C Director and inventor of the World Wide Web</cite></footer>
+  <p>قوة الويب في عموميته.<br />
+     ولوج الجميع بغض النظر عن الإعاقة يعد جانبًا أساسيًا.</p>
+  <footer><cite>تيم بيرنرز لي، مدير W3C ومخترع شبكة الويب العالمية</cite></footer>
 </blockquote>
 
-The Web is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.
+وبالتالي،  تأثير الإعاقة تغير بشكل جذري على الويب لأن الويب يزيل الحواجز التي تعترض التواصل والتفاعل التي يواجهها كثير من الأشخاص في العالم المادي. وهكذا، عندما تكون مواقع الويب والتطبيقات والتقنيات والأدوات سيئة التصميم، فيمكنها إنشاء حواجز تمنع المستخدمين من استخدام الويب.
 
-Thus the impact of disability is radically changed on the Web because the Web removes barriers to communication and interaction that many people face in the physical world. However, when websites, applications, technologies, or tools are badly designed, they can create barriers that exclude people from using the Web.
+وبالتالي،  تأثير الإعاقة تغير بشكل جذري على الويب لأن الويب يزيل الحواجز التي تعترض التواصل والتفاعل التي يواجهها كثير من الأشخاص في العالم المادي. وهكذا، عندما تكون مواقع الويب والتطبيقات والتقنيات والأدوات سيئة التصميم، فيمكنها إنشاء حواجز تقصي المستخدمين من استخدام الويب.
 
-**Accessibility is essential for developers and organizations that want to create high-quality websites and web tools, and not exclude people from using their products and services.**
+**تعد الولوجية ضرورية للمطورين والمؤسسات الذين يرغبون في إنشاء مواقع ويب وأدوات ويب عالية الجودة، بدون إقصاء المستخدمين من  منتجاتهم وخدماتهم.**
 
 
-## What is Web Accessibility {#what}
+## ما هي ولوجية الويب {#what}
 
-Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can:
+الولوجية تعني أنه تم تصميم وتطوير مواقع الويب والأدوات والتقنيات بحيث يمكن للأشخاص ذوي الإعاقة استخدامها. بشكل معين، يمكن للأشخاص:
 
--   perceive, understand, navigate, and interact with the Web
--   contribute to the Web
+-   إدراك الويب وفهمه والتصفح والتفاعل معه
+-   المساهمة في الويب
 
 Web accessibility encompasses all disabilities that affect access to the Web, including:
 
