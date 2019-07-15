@@ -73,32 +73,32 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 -   إدراك الويب وفهمه والتصفح والتفاعل معه
 -   المساهمة في الويب
 
-Web accessibility encompasses all disabilities that affect access to the Web, including:
+تشمل الولوجية جميع الإعاقات التي تؤثر على الولوج إلى الويب، بما في ذلك:
 
--   auditory
--   cognitive
--   neurological
--   physical
--   speech
--   visual
+-   السمع
+-   قدرة المعرفة
+-   الأعصاب
+-   القدرة البدنية
+-   الخطاب
+-   البصر
 
-Web accessibility also benefits people *without* disabilities, for example:
+ولوجية الويب تفيد أيضًا الأشخاص من غير ذوي الإعاقة، على سبيل المثال:
 
--   people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.
--   older people with changing abilities due to ageing
--   people with "temporary disabilities" such as a broken arm or lost glasses
--   people with "situational limitations" such as in bright sunlight or in an environment where they cannot listen to audio
--   people using a slow Internet connection, or who have limited or expensive bandwidth
+-    أشخاص يستخدمون الهواتف المحمولة والساعات الذكية وأجهزة التلفزيون الذكية والأجهزة الأخرى ذات الشاشات الصغيرة وطرق الإدخال المختلفة إلخ.
+-   كبار السن مع قدراتهم المتغيرة بسبب الشيخوخة
+-   أشخاص يعانون من "إعاقات مؤقتة" مثل كسر في الذراع أو نظارات مفقودة 
+-     أشخاص يعانون من "قيود ظرفية" كما هو الحال في ضوء الشمس الساطع أو في بيئة حيث لا يمكن الاستماع إلى الصوت
+-   أشخاص  يستخدمون اتصال بإنترنت بطيئ أو لديهم نطاق ترددي محدود أو مكلف
 
-For a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, see:<br>
-{% include video-link.html title="Web Accessibility Perspectives Video <em>(YouTube)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
+للحصول على فيديو مدته 7 دقائق مع أمثلة عن مدى أهمية الولوجية للأشخاص ذوي الإعاقة وفوائدها للجميع في ظروف متنوعة، أنظر:<br>
+{% include video-link.html title="فيديو أفاق ولوجيات الويب (يوتوب)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More Info on What is Accessibility" class="simple aside" %}
+{% include box.html type="start" h="3" title="مزيد من المعلومات حول ما هي الولوجية " class="simple aside" %}
 {:/}
 
--   When you want to learn more about how different disabilities affect Web use, and read about scenarios of people with disabilities using the Web, see [[How People with Disabilities Use the Web]](/people-use-web/).
--   If you want more examples of benefits for others, with WCAG to back it up, see [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/) and the archived [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/business-case/archive/soc#groups).
+-   إذا كنت ترغب في معرفة المزيد عن تأثير الإعاقات المختلفة على استخدام الويب  وقراءة سيناريوهات الأشخاص ذوي الإعاقة الذين يستخدمون الويب، راجع . [[كيف يستخدم الأشخاص ذوو الإعاقة الويب]](/people-use-web/).
+-   إذا كنت ترغب في الحصول على المزيد من الأمثلة عن المزايا للآخرين، مع WCAG للنسخ الاحتياطي لها، راجع [[تجارب الويب المشتركة: الحواجز العامة  لمستخدمي الأجهزة المحمولة والأشخاص ذوي الإعاقة]](/standards-guidelines/shared-experiences/)  والأرشيف [ولوجية الويب تفيد الأشخاص ذوي الإعاقات وبدونها](https://www.w3.org/WAI/business-case/archive/soc#groups).
 
 {::nomarkdown}
 {% include box.html type="end" %}
